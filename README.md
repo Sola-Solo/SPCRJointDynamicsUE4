@@ -8,6 +8,12 @@ SPCRJointDynamics requires a basic bone setup, and you are good to go.
   
 ## License  
 * [MIT License](./LICENSE)  
+
+## 使用方法
+将E:\SPCRJointDynamicsUE4-master\Plugins\5.1\Plugins
+目录下的SPCRJointDynamics文件夹
+复制到
+E:\SPCRJointDynamicsUE4-master\MyProject\Plugins
   
 ## Purpose of development  
 ![](./image/ue4_physics.gif)  
